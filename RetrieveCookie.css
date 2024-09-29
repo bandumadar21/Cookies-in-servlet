@@ -1,0 +1,28 @@
+*{
+margin:0px;
+padding:0px;
+
+}
+body{
+    background: #222831;
+    font-family:Helvetica,Courier;
+}
+div{
+    margin-top:100px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    
+}
+span{
+    background:#fff;
+    line-height:50px;
+    padding:50px;
+    font-size:20px;
+    border-radius:5px;
+    color:darkblue;
+ font-weight:bold;
+}
+b{
+    color:#8A2BE2;
+}

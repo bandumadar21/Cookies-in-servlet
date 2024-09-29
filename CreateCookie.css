@@ -1,0 +1,41 @@
+*{
+margin:0px;
+padding:0px;
+
+}
+body{
+    background: #222831;
+    font-family:Helvetica,Courier;
+}
+div{
+    margin-top:100px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    
+}
+form{
+    background:#fff;
+    line-height:50px;
+    padding:50px;
+    font-size:20px;
+    border-radius:5px;
+    color:darkgreen;
+}
+button{
+    background:darkblue;
+    color:#fff;
+    padding:20px;
+    border-radius:10px;
+    border:0px;
+    font-size:20px;
+    margin-top:20px;
+    box-shadow:2px 2px 2px blue;
+    cursor:pointer;
+}
+button:hover{
+    opacity:0.7;
+}
+b{
+    color:#8A2BE2;
+}
